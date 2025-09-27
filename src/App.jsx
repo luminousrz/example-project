@@ -8,6 +8,7 @@ function App() {
   return (
       <div>
         <div>changing</div>
+        <h1>test merging</h1>
       </div>
   )
 }
