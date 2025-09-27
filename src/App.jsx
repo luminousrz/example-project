@@ -7,7 +7,7 @@ function App() {
 
   return (
       <div>
-        <div>just a first try so see what I</div>
+        <div>just a first try so see</div>
       </div>
   )
 }
